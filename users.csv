@@ -1,7 +1,0 @@
-user_id,username,email,password
-1,johndoe,johndoe@example.com,Password123
-2,janedoe,jane_doe@example.com,SecurePass456
-3,baduser,baduser@,password
-4,test,test@gmail.com,test
-5,te,tes1t@gmail.com,test12
-6,ranu,ranu@gmail.com,ranu@333
