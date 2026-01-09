@@ -35,6 +35,7 @@ user_id,username,email,password
 1,john123,john@example.com,secret123
 2,alice01,alice@example.com,password456
 
+```
 ------
 
 ## **Commands to Install and Run**
